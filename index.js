@@ -8,7 +8,7 @@ const CYBERTEMP_API    = "https://api.cybertemp.xyz";
 const CYBERTEMP_KEY    = "tk_c778bd5ad07ce105b35626a03856352e428b314752ce521d70b598ef640369a2";
 const FIXED_DOMAIN     = "picturehostel.org";
 const NOPECHA_API      = "https://api.nopecha.com";
-const NOPECHA_KEY      = "ids9isef0yr529z2";
+const NOPECHA_KEY      = "qz700n8v7gn4iadh";
 const DISCORD_SITEKEY  = "f5561ba9-8f1e-40ca-9b5b-a0b3f719ef34";
 const DISCORD_REG_URL  = "https://discord.com/register";
 
